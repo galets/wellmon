@@ -73,6 +73,6 @@ use provided [yaml](wellmon.yaml) to deploy your monitor
 
 ```
 
-## Home Assistanr
+## Home Assistant
 
 ESP32 add-on should discover device automatically
