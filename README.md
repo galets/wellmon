@@ -16,7 +16,7 @@ TODO
 
 * [Tee](https://www.amazon.com/dp/B004J0WYTM)
 * [Gauge](https://www.amazon.com/dp/B07T744FLZ). Technically, the old one can be reused
-* [Pressure Sensor](https://www.amazon.com/dp/B074QPD5RT)
+* [Pressure Sensor](https://www.amazon.com/dp/B0CFJ7BN3L)
 * [ESP32 Board](https://www.amazon.com/gp/product/B09XDMVS9N)
 * [10kΩ resistors, need 3](https://www.amazon.com/dp/B0185FKB0K). We really need 10kΩ and 20kΩ, but if you don't have these already, it's cheaper to buy a pack and make a 20kΩ resistor out of two 10kΩ ones
 
